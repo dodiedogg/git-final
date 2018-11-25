@@ -8,6 +8,8 @@ public class Main {
                 System.out.println(i);
             }
 
+            System.out.println("co to ma być???");
+
         }
     }
 }
